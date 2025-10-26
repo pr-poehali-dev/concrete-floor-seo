@@ -50,10 +50,7 @@ const Index = () => {
               <Link to="/blog/warehouse-floor-guide" className="hover:text-accent transition-colors">Блог</Link>
               <a href="#contact" className="hover:text-accent transition-colors">Контакты</a>
             </nav>
-            <Button variant="secondary" className="hidden md:block">
-              <Icon name="Phone" size={18} className="mr-2" />
-              +7 (495) 123-45-67
-            </Button>
+            <Button variant="secondary" className="hidden md:block">+79005269804</Button>
           </div>
         </div>
       </header>
